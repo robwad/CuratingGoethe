@@ -1,0 +1,3012 @@
+[
+    {
+        "setting_id": "70691",
+        "composerships": [
+            {
+                "artist_id": "17255",
+                "name": "Otto Emanuel Andersson",
+                "dates": "(1879 - 1969)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7491",
+        "composerships": [
+            {
+                "artist_id": "3203",
+                "name": "Conrad (Eduard Reinhold) Ansorge",
+                "dates": "(1862 - 1930)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1904",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Berlin, Dreililien",
+        "opuses": [
+            {
+                "opus": "19",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "10618",
+                "song_cycle_name": "Urworte und andere Gedichte von Goethe",
+                "position": "3"
+            }
+        ]
+    },
+    {
+        "setting_id": "62976",
+        "composerships": [
+            {
+                "artist_id": "8142",
+                "name": "Gary Bachlund",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ruhest du auch"
+        ],
+        "composed_year": "2009",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "medium voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7492",
+        "composerships": [
+            {
+                "artist_id": "3266",
+                "name": "Ernst Bacon",
+                "dates": "(1898 - 1990)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "c1926-28",
+        "published_year": "1928",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "5771",
+                "song_cycle_name": "Ten Songs by Ernst Bacon",
+                "position": "8"
+            }
+        ]
+    },
+    {
+        "setting_id": "7493",
+        "composerships": [
+            {
+                "artist_id": "3267",
+                "name": "Conrad Baden",
+                "dates": "(1908 - 1989)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "1930-5",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "2",
+                "opus_name": "Eleven Songs for Soprano and Piano",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7494",
+        "composerships": [
+            {
+                "artist_id": "3337",
+                "name": "Alfred Julius Becher",
+                "dates": "(1803 - 1848)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1834",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Elberfeld, Betzhold",
+        "opuses": [
+            {
+                "opus": "1",
+                "opus_name": "Acht Gedichte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "5"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7495",
+        "composerships": [
+            {
+                "artist_id": "3355",
+                "name": "Hermann Behn",
+                "dates": "(1857?9 - 1927)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "189-?",
+        "published_year": "1896",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "medium voice and piano",
+        "extra": "Leipzig, Kistner",
+        "opuses": [
+            {
+                "opus": "2",
+                "opus_name": "Fünf Gesänge für 1 mittlere Stimme mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "93538",
+        "composerships": [
+            {
+                "artist_id": "10759",
+                "name": "(Johann Gottfried) Heinrich Bellermann",
+                "dates": "(1832 - 1903)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1869",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "vocal quartet a cappella",
+        "extra": "Berlin, W. Müller",
+        "opuses": [
+            {
+                "opus": "19",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "9"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "8036",
+                "song_cycle_name": "Sängerfahrt. 10 vierstimmige Lieder",
+                "position": "9"
+            }
+        ]
+    },
+    {
+        "setting_id": "24963",
+        "composerships": [
+            {
+                "artist_id": "7139",
+                "name": "Carl Brauns",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "bass, baritone, tenor, alto, contralto, soprano a cappella",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "19",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": ""
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "113275",
+        "composerships": [
+            {
+                "artist_id": "25632",
+                "name": "Michael Brough",
+                "dates": "(b. 1960)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied II"
+        ],
+        "composed_year": "1992-3",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "5",
+                "opus_name": "Sieben Goethe-Lieder",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "7"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "120988",
+        "composerships": [
+            {
+                "artist_id": "13775",
+                "name": "Paul Claussnitzer",
+                "dates": "(1867 - 1924)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1899",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "men's chorus",
+        "extra": "Hannover, Gries",
+        "opuses": [
+            {
+                "opus": "8",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "10181",
+                "song_cycle_name": "Fünf Abendlieder für Männerchor",
+                "position": "1"
+            }
+        ]
+    },
+    {
+        "setting_id": "7496",
+        "composerships": [
+            {
+                "artist_id": "3780",
+                "name": "Leslie Crabtree",
+                "dates": "(b. 1941)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "1993",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "104299",
+        "composerships": [
+            {
+                "artist_id": "10514",
+                "name": "Wilhelm Czerwinski",
+                "dates": "(1837 - 1893)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1875",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mezzo-soprano or baritone and piano",
+        "extra": "Wien, Ludewig & Schmidt",
+        "opuses": [
+            {
+                "opus": "16",
+                "opus_name": "Drei Lieder für Mezzo-Sopran (oder Bariton) mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "114153",
+        "composerships": [
+            {
+                "artist_id": "10328",
+                "name": "Eugen Degele",
+                "dates": "(1834 - 1886)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1878",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Dresden, Ries",
+        "opuses": [
+            {
+                "opus": "14",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": ""
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7497",
+        "composerships": [
+            {
+                "artist_id": "3875",
+                "name": "Alphons Diepenbrock",
+                "dates": "(1862 - 1921)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "1916",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "satb chorus",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "113513",
+        "composerships": [
+            {
+                "artist_id": "3880",
+                "name": "Friedrich Wilhelm Dietz",
+                "dates": "(1833 - 1897)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrer's Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1877",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Mainz, Schott",
+        "opuses": [
+            {
+                "opus": "45",
+                "opus_name": "Drei Lieder für 1 Singstimme mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "112460",
+        "composerships": [
+            {
+                "artist_id": "18292",
+                "name": "Otto Dorn",
+                "dates": "(1848 - 1931)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1878",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Berlin, Weinholtz",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "9536",
+                "song_cycle_name": "Lieder-Album. Acht Gedichte für 1 Singstimme mit Pianoforte",
+                "position": "5"
+            }
+        ]
+    },
+    {
+        "setting_id": "7498",
+        "composerships": [
+            {
+                "artist_id": "3910",
+                "name": "E. Draude",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "51802",
+        "composerships": [
+            {
+                "artist_id": "3948",
+                "name": "Gustav Eggers",
+                "dates": "(1835 - 1861)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1860",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "8",
+                "opus_name": "Zwei Gesänge",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "122276",
+        "composerships": [
+            {
+                "artist_id": "8098",
+                "name": "Louis Ehlert",
+                "dates": "(1825 - 1884)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1862",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mixed chorus a cappella",
+        "extra": "Berlin, Trautwein",
+        "opuses": [
+            {
+                "opus": "28",
+                "opus_name": "Fünf Lieder für gemischten Chor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "5"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "124624",
+        "composerships": [
+            {
+                "artist_id": "27544",
+                "name": "Anders Eliasson",
+                "dates": "(1947 - 2013)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "1993",
+        "published_year": "1995",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Warner/Chappell Music Skandinavia",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "10449",
+                "song_cycle_name": "Fyra sånger till text av Goethe",
+                "position": "4"
+            }
+        ]
+    },
+    {
+        "setting_id": "7501",
+        "composerships": [
+            {
+                "artist_id": "4405",
+                "name": "Ernst II, Herzog von Sachsen-Coburg-Gotha",
+                "dates": "(1818 - 1893)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "45037",
+        "composerships": [
+            {
+                "artist_id": "11726",
+                "name": "John Fearnley",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "40033",
+        "composerships": [
+            {
+                "artist_id": "10436",
+                "name": "Hans Fleischer",
+                "dates": "(1896 - 1981)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "medium voice and piano",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "75",
+                "opus_name": "6 Lieder für mittlere Singstimme und Klavier",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "105027",
+        "composerships": [
+            {
+                "artist_id": "10547",
+                "name": "Ernst Paul FlÃ¼gel",
+                "dates": "(1844 - 1912)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1867",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Greifswald, Verlag der Academischen Buchhandlung (and later: Leipzig, Leuckart, 1876)",
+        "opuses": [
+            {
+                "opus": "2",
+                "opus_name": "Sechs Lieder für 1 Singstimme mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "6"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "112103",
+        "composerships": [
+            {
+                "artist_id": "10547",
+                "name": "Ernst Paul FlÃ¼gel",
+                "dates": "(1844 - 1912)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1893",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mixed chorus a cappella",
+        "extra": "Zittau, Loebel",
+        "opuses": [
+            {
+                "opus": "43",
+                "opus_name": "Drei Lieder für gemischten Chor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "85565",
+        "composerships": [
+            {
+                "artist_id": "21332",
+                "name": "Louis FlÃ¼gge",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Abendlied"
+        ],
+        "composed_year": "",
+        "published_year": "1892",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Schwerin, Hahn & Lang",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "70692",
+        "composerships": [
+            {
+                "artist_id": "17256",
+                "name": "Fredrik Forsberg",
+                "dates": "(1859 - 1920)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "95964",
+        "composerships": [
+            {
+                "artist_id": "22905",
+                "name": "Theodor Gaugler",
+                "dates": "(1840 - 1892)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Abendlied"
+        ],
+        "composed_year": "",
+        "published_year": "1876",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "women's chorus or boys' chorus",
+        "extra": "Binningen, (Kompfe)",
+        "opuses": [
+            {
+                "opus": "23",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "11"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "8214",
+                "song_cycle_name": "Sammlung drei- und vierstimmigen Lieder für Frauenchor (Mädchen- oder ungebrochene Knabenstimme) z. Gebr. in Schule und Verein",
+                "position": "11"
+            }
+        ]
+    },
+    {
+        "setting_id": "7499",
+        "composerships": [
+            {
+                "artist_id": "4158",
+                "name": "Harald Genzmer",
+                "dates": "(1909 - 2007)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "1940-87",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "3725",
+                "song_cycle_name": "Acht Lieder nach verschiedenen Dichtern",
+                "position": "?"
+            }
+        ]
+    },
+    {
+        "setting_id": "102454",
+        "composerships": [
+            {
+                "artist_id": "10484",
+                "name": "Carl Grammann",
+                "dates": "(1844 - 1897)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1874",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "four-part men's chorus",
+        "extra": "Lübeck, Kaibel",
+        "opuses": [
+            {
+                "opus": "14",
+                "opus_name": "Drei Gesänge für vierstimmigen Männerchor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "116798",
+        "composerships": [
+            {
+                "artist_id": "26195",
+                "name": "Carl Greith",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1888",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "München, Aibl.",
+        "opuses": [
+            {
+                "opus": "41",
+                "opus_name": "Acht Lieder für 1 Singstimme mit Pianofortebegleitung (No. 1 des Nachlasses)",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "55845",
+        "composerships": [
+            {
+                "artist_id": "14011",
+                "name": "Lene Grenager",
+                "dates": "(b. 1969)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1999",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7500",
+        "composerships": [
+            {
+                "artist_id": "4267",
+                "name": "Cor (Cornelius Wilhelm) de Groot",
+                "dates": "(b. 1914)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "",
+        "published_year": "194-?",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "4819",
+                "song_cycle_name": "7 Goethe Lieder",
+                "position": "5"
+            }
+        ]
+    },
+    {
+        "setting_id": "142065",
+        "composerships": [
+            {
+                "artist_id": "30180",
+                "name": "Otto Grosse",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ein Gleiches"
+        ],
+        "composed_year": "",
+        "published_year": "1886",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Graz, Pechel",
+        "opuses": [
+            {
+                "opus": "14",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": ""
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "55843",
+        "composerships": [
+            {
+                "artist_id": "4349",
+                "name": "Jonathan Harvey",
+                "dates": "(1939 - 2012)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1984",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "soprano, piano, and tape",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "111506",
+        "composerships": [
+            {
+                "artist_id": "4355",
+                "name": "Gustav Hasse",
+                "dates": "(1834 - 1889)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1886",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mezzo-soprano and piano",
+        "extra": "Leipzig, Dörffel",
+        "opuses": [
+            {
+                "opus": "1",
+                "opus_name": "Sechs Gesänge für Mezzo-Sopran mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "6"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "27467",
+        "composerships": [
+            {
+                "artist_id": "4361",
+                "name": "Moritz Hauptmann",
+                "dates": "(1792 - 1868)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "c1840",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "SATB chorus",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "25",
+                "opus_name": "Sechs Lieder von Goethe für Sopran, Alt, Tenor und Bass",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "134370",
+        "composerships": [
+            {
+                "artist_id": "28932",
+                "name": "Max Heinemann",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1885",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "medium voice and piano",
+        "extra": "Berlin, Raabe & Plothow",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "11353",
+                "song_cycle_name": "Sechs Lieder für 1 mittlere Stimme mit Pianoforte",
+                "position": "5"
+            }
+        ]
+    },
+    {
+        "setting_id": "112555",
+        "composerships": [
+            {
+                "artist_id": "25577",
+                "name": "Georg Hering",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1879",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mixed chorus a cappella",
+        "extra": "Leipzig, (Friedrich)",
+        "opuses": [
+            {
+                "opus": "2",
+                "opus_name": "Drei Lieder für gemischten Chor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "95781",
+        "composerships": [
+            {
+                "artist_id": "22879",
+                "name": "Philippe Hersant",
+                "dates": "(b. 1948)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderung"
+        ],
+        "composed_year": "1998",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "chorus of 6 or 12 female voices and bassoon",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "150306",
+        "composerships": [
+            {
+                "artist_id": "22879",
+                "name": "Philippe Hersant",
+                "dates": "(b. 1948)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Chant nocturne du voyageur"
+        ],
+        "composed_year": "2011",
+        "published_year": "2012",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "baritone and piano",
+        "extra": "Paris, Ã‰d. Durand",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "13028",
+                "song_cycle_name": "In die Ferne",
+                "position": "5"
+            }
+        ]
+    },
+    {
+        "setting_id": "63470",
+        "composerships": [
+            {
+                "artist_id": "4407",
+                "name": "(Leopold) Heinrich (Picot de Peccaduc), Freiherr von Herzogenberg",
+                "dates": "(1843 - 1900)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Nachtgesang"
+        ],
+        "composed_year": "",
+        "published_year": "1870",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mixed chorus",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "10",
+                "opus_name": "Lieder für gemischten Chor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "111616",
+        "composerships": [
+            {
+                "artist_id": "10933",
+                "name": "Wilhelm Hill",
+                "dates": "(1838 - 1902)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1870",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "alto or baritone and piano",
+        "extra": "Offenbach, André",
+        "opuses": [
+            {
+                "opus": "17",
+                "opus_name": "Vier Gesänge für Alt (oder Bariton)",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7502",
+        "composerships": [
+            {
+                "artist_id": "4422",
+                "name": "Ferdinand von Hiller",
+                "dates": "(1811 - 1885)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1867",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "alto and piano",
+        "extra": "Bremen, Cranz",
+        "opuses": [
+            {
+                "opus": "129",
+                "opus_name": "Zwölf Gesänge für Altstimme mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "11"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "98411",
+        "composerships": [
+            {
+                "artist_id": "4445",
+                "name": "Alexis HollÃ¤nder",
+                "dates": "(1840 - 1924)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderer's Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1875",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mixed chorus a cappella",
+        "extra": "Berlin, Simrock",
+        "opuses": [
+            {
+                "opus": "25",
+                "opus_name": "Sechs Quartette für gemischten Chor a capella",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "98424",
+        "composerships": [
+            {
+                "artist_id": "4445",
+                "name": "Alexis HollÃ¤nder",
+                "dates": "(1840 - 1924)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1878",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "four-part women's chorus a cappella",
+        "extra": "Leipzig, Breitkopf & Härtel",
+        "opuses": [
+            {
+                "opus": "22",
+                "opus_name": "Sechs Lieder für vierstimmigen Frauenchor a capella",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "6"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "140011",
+        "composerships": [
+            {
+                "artist_id": "4452",
+                "name": "Iver Holter",
+                "dates": "(1850 - 1941)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1881",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "medium voice and piano",
+        "extra": "Offenbach, André",
+        "opuses": [
+            {
+                "opus": "5",
+                "opus_name": "Vier Gesänge für 1 mittlere Stimme mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "72280",
+        "composerships": [
+            {
+                "artist_id": "4479",
+                "name": "Mary (Carlisle) Howe",
+                "dates": "(1882 - 1964)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7503",
+        "composerships": [
+            {
+                "artist_id": "1307",
+                "name": "Charles Edward Ives",
+                "dates": "(1874 - 1954)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ilmenau"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "85589",
+        "composerships": [
+            {
+                "artist_id": "8188",
+                "name": "Martin Jacobi",
+                "dates": "(1864 - 1919)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "",
+        "published_year": "1894",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "alto or baritone and piano",
+        "extra": "Berlin, Paez",
+        "opuses": [
+            {
+                "opus": "8",
+                "opus_name": "Zwei Lieder für 1 Singstimme mit Pianofortebegleitung",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "55841",
+        "composerships": [
+            {
+                "artist_id": "7520",
+                "name": "Hugo Kauder",
+                "dates": "(1888 - 1972)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1932",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "55842",
+        "composerships": [
+            {
+                "artist_id": "4612",
+                "name": "Wilhelm Kempff",
+                "dates": "(1895 - 1991)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1947",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "121842",
+        "composerships": [
+            {
+                "artist_id": "4633",
+                "name": "Wilhelm Kienzl",
+                "dates": "(1857 - 1941)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1880",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "men's chorus a cappella",
+        "extra": "Kassel, Voigt",
+        "opuses": [
+            {
+                "opus": "17",
+                "opus_name": "Drei Männerchöre",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "33397",
+        "composerships": [
+            {
+                "artist_id": "4645",
+                "name": "Theodor FÃ¼rchtegott Kirchner",
+                "dates": "(1823 - 1903)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1882",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "men's chorus",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "69",
+                "opus_name": "Vier Gedichte von Goethe",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "32727",
+        "composerships": [
+            {
+                "artist_id": "4654",
+                "name": "Bernhard (Joseph) Klein",
+                "dates": "(1793 - 1832)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "c1824",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "vocal quartet for 2 sopranos, tenor, and bass",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "138817",
+        "composerships": [
+            {
+                "artist_id": "11370",
+                "name": "Carl Kossmaly",
+                "dates": "(1812 - 1893)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ãœber allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1843",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "vocal quartet for male voices",
+        "extra": "Leipzig, Hofmeister",
+        "opuses": [
+            {
+                "opus": "6",
+                "opus_name": "Sechs Lieder für 4 Männerstimmen",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "5"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7504",
+        "composerships": [
+            {
+                "artist_id": "4737",
+                "name": "Daniel Friedrich Rudolph Kuhlau",
+                "dates": "(1786 - 1832)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1825",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "144589",
+        "composerships": [
+            {
+                "artist_id": "4753",
+                "name": "Franz Paul Lachner",
+                "dates": "(1803 - 1890)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "ttbb chorus",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "128",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "42171",
+        "composerships": [
+            {
+                "artist_id": "10993",
+                "name": "Huub de Lange",
+                "dates": "(b. 1955)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Abendlied"
+        ],
+        "composed_year": "",
+        "published_year": "2006",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "SATB chorus and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "2122",
+                "song_cycle_name": "Myrte Lieder",
+                "position": "4"
+            }
+        ]
+    },
+    {
+        "setting_id": "101528",
+        "composerships": [
+            {
+                "artist_id": "9191",
+                "name": "Hermann (Ernst?) Levi",
+                "dates": "(1839 - 1900)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1899",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mezzo-soprano and piano",
+        "extra": "MÃ¼nchen, Halbreiter",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "8580",
+                "song_cycle_name": "Drei Gedichte von Goethe für 1 Singstimme mit Pianoforte",
+                "position": "1"
+            }
+        ]
+    },
+    {
+        "setting_id": "97814",
+        "composerships": [
+            {
+                "artist_id": "11781",
+                "name": "Johann Lewalter",
+                "dates": "(1862 - 1935)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1883",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Leipzig, Veit",
+        "opuses": [
+            {
+                "opus": "6",
+                "opus_name": "Zwei Lieder",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "70693",
+        "composerships": [
+            {
+                "artist_id": "4864",
+                "name": "Gabriel LinsÃ©n",
+                "dates": "(1838 - 1914)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7505",
+        "composerships": [
+            {
+                "artist_id": "4870",
+                "name": "Franz (Ferenc) Liszt",
+                "dates": "(1811 - 1886)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "1848",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [
+            {
+                "catalog_number": "S. 306",
+                "sub_catalog_number": ""
+            }
+        ],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7506",
+        "composerships": [
+            {
+                "artist_id": "1674",
+                "name": "Johann Karl Gottfried Loewe",
+                "dates": "(1796 - 1869)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1817?",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "9",
+                "opus_name": "",
+                "heft_number": "1",
+                "heft_name": "",
+                "sub_opus_number": "3a"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "138564",
+        "composerships": [
+            {
+                "artist_id": "4956",
+                "name": "Carl Ludwig Amand Mangold",
+                "dates": "(1813 - 1889)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1892",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "vocal quartet for male voices",
+        "extra": "Offenbach, André",
+        "opuses": [
+            {
+                "opus": "23",
+                "opus_name": "Vier Lieder für vier Männerstimmen",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7507",
+        "composerships": [
+            {
+                "artist_id": "5021",
+                "name": "Nikolai Karlovich Medtner",
+                "dates": "(1880 - 1951)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1904",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "6",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7508",
+        "composerships": [
+            {
+                "artist_id": "5037",
+                "name": "Fanny Mendelssohn-Hensel",
+                "dates": "(1805 - 1847)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh"
+        ],
+        "composed_year": "1835",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "128026",
+        "composerships": [
+            {
+                "artist_id": "27919",
+                "name": "Antonio MÃ¼ller-Herrneck",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1899",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "alto and piano",
+        "extra": "Frankfurt a/M., Steyl & Thomas",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "10723",
+                "song_cycle_name": "Acht Lieder für Alt-Stimme mit Pianofortebegleitung",
+                "position": "8"
+            }
+        ]
+    },
+    {
+        "setting_id": "7509",
+        "composerships": [
+            {
+                "artist_id": "5158",
+                "name": "Victor Ernst Nessler",
+                "dates": "(1841 - 1890)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "34",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "104970",
+        "composerships": [
+            {
+                "artist_id": "5158",
+                "name": "Victor Ernst Nessler",
+                "dates": "(1841 - 1890)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1876",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "four-part women's chorus a cappella",
+        "extra": "Leipzig, Hofmeister",
+        "opuses": [
+            {
+                "opus": "76",
+                "opus_name": "Sechs Lieder für vierstimmigen Frauenchor a capella",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "5"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7510",
+        "composerships": [
+            {
+                "artist_id": "5276",
+                "name": "Heinrich Panofka",
+                "dates": "(1807 - 1887)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7511",
+        "composerships": [
+            {
+                "artist_id": "5308",
+                "name": "Ernst Pepping",
+                "dates": "(1901 - 1981)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ein Gleiches"
+        ],
+        "composed_year": "1946",
+        "published_year": "1949",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "5004",
+                "song_cycle_name": "Haus- und Trostbuch",
+                "position": "34"
+            }
+        ]
+    },
+    {
+        "setting_id": "86208",
+        "composerships": [
+            {
+                "artist_id": "5419",
+                "name": "(Albert Maria) Robert Radecke",
+                "dates": "(1830 - 1911)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Wipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1862",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "vocal trio with piano",
+        "extra": "Berlin, Trautwein",
+        "opuses": [
+            {
+                "opus": "27",
+                "opus_name": "Vier Terzette",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "89196",
+        "composerships": [
+            {
+                "artist_id": "9250",
+                "name": "Louis Rakemann",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1892",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "men's chorus",
+        "extra": "Leipzig, Haushahn Verlag",
+        "opuses": [
+            {
+                "opus": "24",
+                "opus_name": "Vier Lieder für Männerchor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "102610",
+        "composerships": [
+            {
+                "artist_id": "10292",
+                "name": "Bruno Ramann",
+                "dates": "(1832 - 1897)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1874",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "duet for soprano and tenor with piano",
+        "extra": "Mainz, Schott",
+        "opuses": [
+            {
+                "opus": "20",
+                "opus_name": "Drei Duette für Sopran und Tenor mit Begleitung des Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7512",
+        "composerships": [
+            {
+                "artist_id": "5461",
+                "name": "Max Reger",
+                "dates": "(1873 - 1916)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Abendlied"
+        ],
+        "composed_year": "1894",
+        "published_year": "1895",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "vocal duet for soprano and alto with piano",
+        "extra": "London, Augener & Co.",
+        "opuses": [
+            {
+                "opus": "14",
+                "opus_name": "Fünf Duette",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "137048",
+        "composerships": [
+            {
+                "artist_id": "11115",
+                "name": "Adolf Reichel",
+                "dates": "(1820 - 1896)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1883",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "chorus a cappella",
+        "extra": "Leipzig, Leuckart",
+        "opuses": [
+            {
+                "opus": "72",
+                "opus_name": "Drei Lieder für vierstimmigen gemischten Chor",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "99389",
+        "composerships": [
+            {
+                "artist_id": "23250",
+                "name": "Bernard Reichel",
+                "dates": "(1901 - 1992)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln"
+        ],
+        "composed_year": "",
+        "published_year": "198-?",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Monthey : Cantate Domino",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "8428",
+                "song_cycle_name": "Lieder-Gedichte von Goethe",
+                "position": "9"
+            }
+        ]
+    },
+    {
+        "setting_id": "85747",
+        "composerships": [
+            {
+                "artist_id": "10567",
+                "name": "Franz Ries",
+                "dates": "(1846 - 1932)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1869",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "soprano and piano",
+        "extra": "Bielefeld, Sulzer",
+        "opuses": [
+            {
+                "opus": "8",
+                "opus_name": "6 Lieder für Sopran",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "5"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "141469",
+        "composerships": [
+            {
+                "artist_id": "5596",
+                "name": "Eduard Gustav Sabbath",
+                "dates": "(1826 - ?)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1885",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Berlin, Bote & Bock",
+        "opuses": [
+            {
+                "opus": "22",
+                "opus_name": "Vier Lieder für 1 Singstimme mit Pianoforte",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "45331",
+        "composerships": [
+            {
+                "artist_id": "5656",
+                "name": "Louis Schlottmann",
+                "dates": "(1826 - 1905)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "44",
+                "opus_name": "10 Goethe'sche Dichtungen",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "131790",
+        "composerships": [
+            {
+                "artist_id": "25717",
+                "name": "Carl Schmeidler",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wand'rers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1897",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "soprano or tenor and harmonium or piano",
+        "extra": "Berlin, Simon",
+        "opuses": [
+            {
+                "opus": "27",
+                "opus_name": "Zwei Lieder für Sopran (oder Tenor) mit Harmonium (oder Pianoforte)",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7513",
+        "composerships": [
+            {
+                "artist_id": "2520",
+                "name": "Franz Peter Schubert",
+                "dates": "(1797 - 1828)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied II",
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "c1823",
+        "published_year": "1827",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice, piano",
+        "extra": "attachment to Wiener Zeitschrift fÃ¼r Kunst, Literatur, Theater und Mode",
+        "opuses": [
+            {
+                "opus": "96",
+                "opus_name": "Vier Lieder",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            },
+            {
+                "opus": "101",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "4"
+            }
+        ],
+        "catalogs": [
+            {
+                "catalog_number": "D. 768",
+                "sub_catalog_number": ""
+            }
+        ],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7514",
+        "composerships": [
+            {
+                "artist_id": "5685",
+                "name": "Robert Schumann",
+                "dates": "(1810 - 1856)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Nachtlied"
+        ],
+        "composed_year": "1850",
+        "published_year": "1851",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Leipzig, Whistling",
+        "opuses": [
+            {
+                "opus": "96",
+                "opus_name": "Lieder und Gesänge für Singstimme und Klavier (Heft 4)",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "1"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "133477",
+        "composerships": [
+            {
+                "artist_id": "5745",
+                "name": "Friedrich Siebmann",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wanderers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "1880",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "alto or baritone and piano",
+        "extra": "Leipzig, Breitkopf & Härtel",
+        "opuses": [
+            {
+                "opus": "60",
+                "opus_name": "Sechs Lieder",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "5"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "108974",
+        "composerships": [
+            {
+                "artist_id": "5800",
+                "name": "Hans August Friedrich Zincke genannt Sommer",
+                "dates": "(1837 - 1922)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1919-22",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "104742",
+        "composerships": [
+            {
+                "artist_id": "24077",
+                "name": "Max Staegemann",
+                "dates": "(1843 - 1905)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1875",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "Dresden, Hoffarth",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "8776",
+                "song_cycle_name": "Zwei Lieder für 1 Singstimme mit Pianoforte",
+                "position": "1"
+            }
+        ]
+    },
+    {
+        "setting_id": "121960",
+        "composerships": [
+            {
+                "artist_id": "27219",
+                "name": "Carl StÃ¶r",
+                "dates": "",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Über allen Gipfeln ist Ruh'"
+        ],
+        "composed_year": "",
+        "published_year": "1883",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "mezzo-soprano and piano",
+        "extra": "Leipzig, Sulzer",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": [
+            {
+                "song_cycle_id": "10267",
+                "song_cycle_name": "Lieder für 1 Singstimme mit Pianofortebegleitung",
+                "position": "10"
+            }
+        ]
+    },
+    {
+        "setting_id": "55840",
+        "composerships": [
+            {
+                "artist_id": "5985",
+                "name": "VÃ¡clav Jan KÅ™titel TomÃ¡Å¡ek",
+                "dates": "(1774 - 1850)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "1815",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "35610",
+        "composerships": [
+            {
+                "artist_id": "6805",
+                "name": "(Carl Theodor) Oskar Ulmer",
+                "dates": "(1883 - 1966)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "voice and piano",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "41",
+                "opus_name": "Drei Lieder",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "2"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "61036",
+        "composerships": [
+            {
+                "artist_id": "6141",
+                "name": "Karl Weigl",
+                "dates": "(1881 - 1949)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ein Gleiches"
+        ],
+        "composed_year": "1903-4",
+        "published_year": "1912",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "baritone and piano",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "1",
+                "opus_name": "Sieben Gesänge",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "6"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7515",
+        "composerships": [
+            {
+                "artist_id": "6246",
+                "name": "Franz WÃ¼llner",
+                "dates": "(1832 - 1902)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Wandrers Nachtlied"
+        ],
+        "composed_year": "",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [
+            {
+                "opus": "5",
+                "opus_name": "",
+                "heft_number": "",
+                "heft_name": "",
+                "sub_opus_number": "3"
+            }
+        ],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    },
+    {
+        "setting_id": "7516",
+        "composerships": [
+            {
+                "artist_id": "6268",
+                "name": "Karl Friedrich Zelter",
+                "dates": "(1758 - 1832)",
+                "attribution_certain": "Y",
+                "uses_pseudonym": ""
+            }
+        ],
+        "titles": [
+            "Ruhe"
+        ],
+        "composed_year": "1814",
+        "published_year": "",
+        "copyright": "",
+        "first_performed_year": "",
+        "orchestrated_year": "",
+        "stanzas_set": "",
+        "instrumentation": "",
+        "extra": "",
+        "opuses": [],
+        "catalogs": [],
+        "song_cycle_inclusions": []
+    }
+]
